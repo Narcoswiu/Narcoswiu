@@ -60,7 +60,8 @@ Working through a Software Engineering program covering:
 
 <div align="center">
 
-![Nikolai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narcoswiu&show_icons=true&theme=dark&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Narcoswiu&layout=compact&theme=dark&hide_border=true)
+![Profile views](https://komarev.com/ghpvc/?username=Narcoswiu&color=blue&style=flat)
+![Followers](https://img.shields.io/github/followers/Narcoswiu?style=flat&color=blue)
+![TodorovNET.API stars](https://img.shields.io/github/stars/Narcoswiu/TodorovNet?style=flat&color=yellow)
 
 </div>
