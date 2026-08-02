@@ -6,7 +6,9 @@
 
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
@@ -19,7 +21,8 @@
 
 I'm a backend-leaning developer working mainly with **C# / ASP.NET Core**,
 building REST APIs, real-time systems (SignalR), and working with relational
-databases (PostgreSQL, MS SQL) through Entity Framework Core.
+databases (mainly **MS SQL Server**, plus PostgreSQL and MySQL) through
+Entity Framework Core.
 
 Check out **[TodorovNET.API](https://github.com/Narcoswiu/TodorovNet)** — a
 real-time race-timing backend for hard enduro events, built end-to-end with
