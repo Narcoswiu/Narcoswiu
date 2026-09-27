@@ -1,4 +1,4 @@
-name: Generate snake
+name: Generate profile images
 
 on:
   schedule:
@@ -12,12 +12,35 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v5
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@v0.12.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: github_dark
+          UTC_OFFSET: 3
+          AUTO_PUSH: false
+          ANIMATION: rise
+
+      - name: Collect images
+        run: |
+          cp profile-3d-contrib/*.svg dist/
+          cp profile-summary-card-output/github_dark/*.svg dist/
+          ls dist
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
