@@ -90,6 +90,18 @@ Fast, modern websites for local businesses — built with Next.js, deployed on V
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Narcoswiu/Narcoswiu/output/profile-night-rainbow.svg" />
+  <img alt="3D contribution skyline" src="https://raw.githubusercontent.com/Narcoswiu/Narcoswiu/output/profile-season-animate.svg" width="100%" />
+</picture>
+
+<img src="https://raw.githubusercontent.com/Narcoswiu/Narcoswiu/output/0-profile-details.svg" width="100%" />
+
+<img src="https://raw.githubusercontent.com/Narcoswiu/Narcoswiu/output/3-stats.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/Narcoswiu/Narcoswiu/output/4-productive-time.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/Narcoswiu/Narcoswiu/output/1-repos-per-language.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/Narcoswiu/Narcoswiu/output/2-most-commit-language.svg" width="49%" />
+
 <img src="https://streak-stats.demolab.com?user=Narcoswiu&theme=github-dark-blue&hide_border=true&background=0D1117" />
 
 <picture>
@@ -194,6 +206,10 @@ Fast, modern websites for local businesses — built with Next.js, deployed on V
 <div align="center">
 
 <br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/><br/>
 
 **Have a project in mind?** Let's build it → **[wavsy.dev](https://wavsy.dev)**
 
