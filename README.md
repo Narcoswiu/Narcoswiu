@@ -1,71 +1,108 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nikolai+%F0%9F%91%8B;Full-stack+developer;C%23+%2F+.NET+%E2%80%A2+Next.js+%E2%80%A2+SQL;I+build+things+that+run+live" alt="Typing intro" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=220&section=header&text=Nikolai%20Todorov&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20developer%20%E2%80%A2%20Co-founder%20of%20Wavsy&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
-**Full-stack developer from Kazanlak, Bulgaria 🇧🇬**
-Backend roots in C# / .NET and SQL — now shipping modern web apps with Next.js, React and Supabase.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=I+build+things+that+run+live+%E2%9A%A1;C%23+%2F+.NET+backends+%E2%80%A2+Next.js+frontends;From+database+schema+to+pixel-perfect+UI;Currently+timing+hard+enduro+races+%F0%9F%8F%8D%EF%B8%8F" alt="Typing intro" />
 
-[![Wavsy](https://img.shields.io/badge/Wavsy-wavsy.dev-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](https://wavsy.dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-view-111111?style=for-the-badge&logo=react&logoColor=61DAFB)](https://portfolio-theta-dun-ejq1lqeyg0.vercel.app)
+<br/>
+
+[![Wavsy](https://img.shields.io/badge/Wavsy-wavsy.dev-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white)](https://wavsy.dev)
+![Location](https://img.shields.io/badge/Kazanlak-Bulgaria-8957E5?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Profile views](https://komarev.com/ghpvc/?username=Narcoswiu&color=0D1117&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
----
+## `> whoami`
 
-## ⚡ About me
+```csharp
+public class Nikolai : Developer
+{
+    public string Location  => "Kazanlak, Bulgaria 🇧🇬";
+    public string Company   => "Wavsy — web studio I co-founded (wavsy.dev)";
+    public string Building  => "TodorovNET — live timing for hard enduro 🏍️";
 
-- 🏗️ Co-founder of **[Wavsy](https://wavsy.dev)** — a small web studio building fast, modern sites for local businesses
-- 🏁 Building **[TodorovNET](https://github.com/Narcoswiu/TodorovNet)** — live timing and results for hard enduro races
-- 🗄️ Comfortable across the whole stack: from database schema and PL/SQL to APIs, real-time updates and polished UI
-- 🎓 SoftUni graduate with a **6.00 / 6.00** in every course, currently in the IT-Kariera Software Engineering program
+    public string[] Backend  => ["C#", ".NET", "ASP.NET Core", "SignalR", "EF Core"];
+    public string[] Frontend => ["Next.js", "React", "TypeScript", "Tailwind"];
+    public string[] Data     => ["MS SQL", "PostgreSQL", "Oracle PL/SQL", "Supabase"];
+
+    public string Motto => "Ship it, measure it, make it faster.";
+}
+```
 
 ## 🛠️ Tech stack
 
 <div align="center">
 
-**Frontend**
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nextjs,react,ts,js,tailwind,nodejs&perline=8" />
 <br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,vite,threejs,html,css" />
+<img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,vite,threejs,html,css,git&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=github,vercel,vscode,visualstudio&perline=8" />
 
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,supabase" />
+<br/><br/>
 
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" />
-<img src="https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48" />
-
-**Tools & deploy**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,visualstudio" />
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle PL/SQL](https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 </div>
 
 ## 🚀 Featured projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| 🏁 **[TodorovNET](https://github.com/Narcoswiu/TodorovNet)** | Live timing, penalties and championship standings for hard enduro events | Next.js · React · Supabase · TypeScript · Tailwind |
-| 🎨 **[Portfolio](https://github.com/Narcoswiu/portfolio)** | Personal portfolio with 3D scenes and scroll animations | React · Three.js · GSAP · Framer Motion · Vite |
-| ⏱️ **[TodorovNET.API](https://github.com/Narcoswiu/TodorovNet1)** | The original race-timing backend with a live leaderboard | ASP.NET Core · SignalR · EF Core · JWT · MS SQL |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📊 GitHub stats
+### 🏁 [TodorovNET](https://github.com/Narcoswiu/TodorovNet)
+Live timing, penalties and championship standings for **hard enduro** races — results update on screen while riders are still on track.
+
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### ⏱️ [TodorovNET.API](https://github.com/Narcoswiu/TodorovNet1)
+The original race-timing backend: REST API with JWT auth and a **real-time leaderboard** pushed over SignalR.
+
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet)
+![SignalR](https://img.shields.io/badge/-SignalR-512BD4?style=flat-square&logo=dotnet)
+![EF Core](https://img.shields.io/badge/-EF_Core-512BD4?style=flat-square&logo=dotnet)
+![MS SQL](https://img.shields.io/badge/-MS_SQL-CC2927?style=flat-square&logo=microsoftsqlserver)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 🌐 [Wavsy](https://wavsy.dev)
+Fast, modern websites for local businesses — built with Next.js, deployed on Vercel. **[See our work →](https://wavsy.dev)**
+
+</td>
+</tr>
+</table>
+
+## 📈 Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Narcoswiu&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narcoswiu&layout=compact&theme=github_dark&hide_border=true" height="165" />
+<img src="https://streak-stats.demolab.com?user=Narcoswiu&theme=github-dark-blue&hide_border=true&background=0D1117" />
 
-![Profile views](https://komarev.com/ghpvc/?username=Narcoswiu&color=2F81F7&style=flat)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Narcoswiu/Narcoswiu/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Narcoswiu/Narcoswiu/output/github-snake.svg" />
+</picture>
 
 </div>
 
 ## 🎓 Education
 
 <details>
-<summary><b>SoftUni — 8 courses, all 6.00 / 6.00</b></summary>
+<summary><b>SoftUni — 8 courses, every one at 6.00 / 6.00 🏆</b></summary>
 <br/>
 
 | Course | Completed | Certificate |
@@ -82,7 +119,7 @@ Backend roots in C# / .NET and SQL — now shipping modern web apps with Next.js
 </details>
 
 <details>
-<summary><b>IT-Kariera — Software Engineering (in progress)</b></summary>
+<summary><b>IT-Kariera — Software Engineering (in progress) 📚</b></summary>
 <br/>
 
 - Introduction to Programming
@@ -96,10 +133,12 @@ Backend roots in C# / .NET and SQL — now shipping modern web apps with Next.js
 
 </details>
 
----
-
 <div align="center">
 
-**Have a project in mind?** Let's talk → **[wavsy.dev](https://wavsy.dev)**
+<br/>
+
+**Have a project in mind?** Let's build it → **[wavsy.dev](https://wavsy.dev)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" />
 
 </div>
