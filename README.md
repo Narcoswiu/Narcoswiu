@@ -1,67 +1,105 @@
 <div align="center">
 
-# Hi, I'm Nikolai 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nikolai+%F0%9F%91%8B;Full-stack+developer;C%23+%2F+.NET+%E2%80%A2+Next.js+%E2%80%A2+SQL;I+build+things+that+run+live" alt="Typing intro" />
 
-**C# / .NET Developer**
+**Full-stack developer from Kazanlak, Bulgaria 🇧🇬**
+Backend roots in C# / .NET and SQL — now shipping modern web apps with Next.js, React and Supabase.
 
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
-[![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![Wavsy](https://img.shields.io/badge/Wavsy-wavsy.dev-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](https://wavsy.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-view-111111?style=for-the-badge&logo=react&logoColor=61DAFB)](https://portfolio-theta-dun-ejq1lqeyg0.vercel.app)
 
 </div>
 
 ---
 
-## About me
+## ⚡ About me
 
-I'm a backend-leaning developer working mainly with **C# / ASP.NET Core**,
-building REST APIs, real-time systems (SignalR), and working with relational
-databases (mainly **MS SQL Server**, plus PostgreSQL and MySQL) through
-Entity Framework Core.
+- 🏗️ Co-founder of **[Wavsy](https://wavsy.dev)** — a small web studio building fast, modern sites for local businesses
+- 🏁 Building **[TodorovNET](https://github.com/Narcoswiu/TodorovNet)** — live timing and results for hard enduro races
+- 🗄️ Comfortable across the whole stack: from database schema and PL/SQL to APIs, real-time updates and polished UI
+- 🎓 SoftUni graduate with a **6.00 / 6.00** in every course, currently in the IT-Kariera Software Engineering program
 
-Check out **[TodorovNET.API](https://github.com/Narcoswiu/TodorovNet)** — a
-real-time race-timing backend for hard enduro events, built end-to-end with
-JWT auth, EF Core, and a live SignalR-powered leaderboard.
+## 🛠️ Tech stack
 
-## 🎓 SoftUni Certificates
+<div align="center">
 
-All courses completed with a perfect score — **6.00 / 6.00**.
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,vite,threejs,html,css" />
 
-| Course | Completed | Score | Certificate |
-|---|---|---|---|
-| Programming Basics | April 2023 | 6.00 / 6.00 | [View](https://softuni.bg/Certificates/Details/172518/27c9b1f4) |
-| Programming Fundamentals with C# | September 2023 | 6.00 / 6.00 | [View](https://softuni.bg/Certificates/Details/194798/35e8bb78) |
-| C# Advanced | January 2024 | 6.00 / 6.00 | [View](https://softuni.bg/Certificates/Details/203554/c1299948) |
-| C# OOP | February 2024 | 6.00 / 6.00 | [View](https://softuni.bg/Certificates/Details/211224/76200d7e) |
-| HTML & CSS | September 2024 | 6.00 / 6.00 | [View](https://softuni.bg/Certificates/Details/228582/9cbfdd43) |
-| JS Front-End | October 2024 | 6.00 / 6.00 | [View](https://softuni.bg/Certificates/Details/232322/73946ae) |
-| MS SQL | January 2025 | 6.00 / 6.00 | [View](https://softuni.bg/Certificates/Details/235765/f27c9674) |
-| Entity Framework Core | February 2025 | 6.00 / 6.00 | [View](https://softuni.bg/Certificates/Details/239803/968bac11) |
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,supabase" />
 
-## 📚 Currently studying — IT-Kariera Software Engineering Program
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48" />
 
-Working through a Software Engineering program covering:
+**Tools & deploy**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,visualstudio" />
 
-- Увод в програмирането
-- Програмиране
-- Увод в обектно-ориентирано програмиране
-- Увод в Алгоритмите и структурите от данни
-- Обектно-ориентирано програмиране
-- Бази данни
-- Разработка на софтуер
-- Въведение в операционни и вградени системи
+</div>
+
+## 🚀 Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🏁 **[TodorovNET](https://github.com/Narcoswiu/TodorovNet)** | Live timing, penalties and championship standings for hard enduro events | Next.js · React · Supabase · TypeScript · Tailwind |
+| 🎨 **[Portfolio](https://github.com/Narcoswiu/portfolio)** | Personal portfolio with 3D scenes and scroll animations | React · Three.js · GSAP · Framer Motion · Vite |
+| ⏱️ **[TodorovNET.API](https://github.com/Narcoswiu/TodorovNet1)** | The original race-timing backend with a live leaderboard | ASP.NET Core · SignalR · EF Core · JWT · MS SQL |
 
 ## 📊 GitHub stats
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Narcoswiu&color=blue&style=flat)
-![Followers](https://img.shields.io/github/followers/Narcoswiu?style=flat&color=blue)
-![TodorovNET.API stars](https://img.shields.io/github/stars/Narcoswiu/TodorovNet?style=flat&color=yellow)
+<img src="https://github-readme-stats.vercel.app/api?username=Narcoswiu&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narcoswiu&layout=compact&theme=github_dark&hide_border=true" height="165" />
+
+![Profile views](https://komarev.com/ghpvc/?username=Narcoswiu&color=2F81F7&style=flat)
+
+</div>
+
+## 🎓 Education
+
+<details>
+<summary><b>SoftUni — 8 courses, all 6.00 / 6.00</b></summary>
+<br/>
+
+| Course | Completed | Certificate |
+|---|---|---|
+| Programming Basics | April 2023 | [View](https://softuni.bg/Certificates/Details/172518/27c9b1f4) |
+| Programming Fundamentals with C# | September 2023 | [View](https://softuni.bg/Certificates/Details/194798/35e8bb78) |
+| C# Advanced | January 2024 | [View](https://softuni.bg/Certificates/Details/203554/c1299948) |
+| C# OOP | February 2024 | [View](https://softuni.bg/Certificates/Details/211224/76200d7e) |
+| HTML & CSS | September 2024 | [View](https://softuni.bg/Certificates/Details/228582/9cbfdd43) |
+| JS Front-End | October 2024 | [View](https://softuni.bg/Certificates/Details/232322/73946ae) |
+| MS SQL | January 2025 | [View](https://softuni.bg/Certificates/Details/235765/f27c9674) |
+| Entity Framework Core | February 2025 | [View](https://softuni.bg/Certificates/Details/239803/968bac11) |
+
+</details>
+
+<details>
+<summary><b>IT-Kariera — Software Engineering (in progress)</b></summary>
+<br/>
+
+- Introduction to Programming
+- Programming
+- Introduction to Object-Oriented Programming
+- Introduction to Algorithms and Data Structures
+- Object-Oriented Programming
+- Databases
+- Software Development
+- Introduction to Operating and Embedded Systems
+
+</details>
+
+---
+
+<div align="center">
+
+**Have a project in mind?** Let's talk → **[wavsy.dev](https://wavsy.dev)**
 
 </div>
