@@ -38,8 +38,8 @@ jobs:
 
       - name: Collect images
         run: |
-          cp profile-3d-contrib/*.svg dist/
-          cp profile-summary-card-output/github_dark/*.svg dist/
+          sudo cp profile-3d-contrib/*.svg dist/
+          sudo cp profile-summary-card-output/github_dark/*.svg dist/
           ls dist
 
       - uses: crazy-max/ghaction-github-pages@v4
