@@ -188,20 +188,64 @@ Fast, modern websites for local businesses — built with Next.js, deployed on V
 
 </div>
 
-<details>
-<summary><b>🎓 IT-Kariera — Software Engineering (in progress) 📚</b></summary>
-<br/>
+### 🎓 IT-Kariera — Software Engineering
 
-- Introduction to Programming
-- Programming
-- Introduction to Object-Oriented Programming
-- Introduction to Algorithms and Data Structures
-- Object-Oriented Programming
-- Databases
-- Software Development
-- Introduction to Operating and Embedded Systems
+<div align="center">
 
-</details>
+![Status](https://img.shields.io/badge/Status-In_progress-F0883E?style=for-the-badge&logo=githubactions&logoColor=white)
+![Modules](https://img.shields.io/badge/Modules-8-1F6FEB?style=for-the-badge&logo=bookstack&logoColor=white)
+![Track](https://img.shields.io/badge/Track-Software_Engineering-8957E5?style=for-the-badge&logo=codeigniter&logoColor=white)
+
+<sub>From first line of code to databases, algorithms and systems</sub>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<h2>🌱</h2>
+<sub>MODULE 01</sub><br/>
+<b>Introduction to Programming</b>
+</td>
+<td align="center" width="25%">
+<h2>💻</h2>
+<sub>MODULE 02</sub><br/>
+<b>Programming</b>
+</td>
+<td align="center" width="25%">
+<h2>🧩</h2>
+<sub>MODULE 03</sub><br/>
+<b>Intro to OOP</b>
+</td>
+<td align="center" width="25%">
+<h2>🧮</h2>
+<sub>MODULE 04</sub><br/>
+<b>Algorithms & Data Structures</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<h2>🏛️</h2>
+<sub>MODULE 05</sub><br/>
+<b>Object-Oriented Programming</b>
+</td>
+<td align="center" width="25%">
+<h2>🗄️</h2>
+<sub>MODULE 06</sub><br/>
+<b>Databases</b>
+</td>
+<td align="center" width="25%">
+<h2>🛠️</h2>
+<sub>MODULE 07</sub><br/>
+<b>Software Development</b>
+</td>
+<td align="center" width="25%">
+<h2>⚙️</h2>
+<sub>MODULE 08</sub><br/>
+<b>Operating & Embedded Systems</b>
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
 
