@@ -26,6 +26,8 @@ public class Nikolai : Developer
     public string[] Data     => ["MS SQL", "PostgreSQL", "Oracle PL/SQL", "Supabase"];
     public string[] AI       => ["AI assistants", "AI agents", "Automations"];
 
+    public string Latest => "Fadata PL/SQL + AI Tech Academy — completed 🏅";
+
     public string Motto => "Ship it, measure it, make it faster.";
 }
 ```
@@ -222,6 +224,33 @@ Takes over the routine between systems: **enquiry → CRM in seconds**, reports 
 </div>
 
 ## 🎓 Education
+
+### 🏅 Fadata — PL/SQL + AI Tech Academy
+
+<table>
+<tr>
+<td width="55%" align="center">
+<a href="assets/fadata-certificate.jpg"><img src="assets/fadata-certificate.jpg" width="100%" alt="Fadata PL/SQL + AI Tech Academy certificate" /></a>
+<br/><sub>Click to view full size</sub>
+</td>
+<td width="45%" valign="middle">
+
+![Completed](https://img.shields.io/badge/Completed-%E2%9C%93-2EA043?style=for-the-badge)
+![Oracle PL/SQL](https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Tech-8957E5?style=for-the-badge&logo=probot&logoColor=white)
+
+**Certificate of Completion**
+
+🏢 &nbsp;**Fadata** × **MNKnowledge**
+<br/>📍 &nbsp;Sofia, Bulgaria
+<br/>🗓️ &nbsp;8 September 2026
+
+Academy by Fadata, a software company building core systems for the insurance industry. Focused on **Oracle PL/SQL** for enterprise back-ends and on applying **AI** in real-world development.
+
+</td>
+</tr>
+</table>
+
 
 ### 🏆 SoftUni — a perfect record
 
