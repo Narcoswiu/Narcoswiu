@@ -55,7 +55,11 @@ public class Nikolai : Developer
 <td width="50%" valign="top">
 
 ### 🏁 [TodorovNET](https://github.com/Narcoswiu/TodorovNet)
-Live timing, penalties and championship standings for **hard enduro** races — results update on screen while riders are still on track.
+<a href="https://todorovnet.vercel.app"><img src="https://raw.githubusercontent.com/wavsy/wavsy/main/public/portfolio/todorovnet.jpg" width="100%" /></a>
+
+Live timing, penalties and championship standings for **hard enduro** races — results update on screen while riders are still on track. Officials get a phone app that records times even without coverage.
+
+**[🔴 Live →](https://todorovnet.vercel.app)**
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
@@ -76,15 +80,69 @@ The original race-timing backend: REST API with JWT auth and a **real-time leade
 
 </td>
 </tr>
+</table>
+
+## 🌊 Wavsy — my web studio
+
+<div align="center">
+
+<a href="https://wavsy.dev">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wavsy/wavsy/main/public/brand/wavsy-logo-horizontal-white.svg" />
+  <img alt="Wavsy" src="https://raw.githubusercontent.com/wavsy/wavsy/main/public/brand/wavsy-logo-horizontal-navy.svg" height="64" />
+</picture>
+</a>
+
+**Websites that bring clients, not just look good.**
+I co-founded Wavsy to build fast, modern sites for local businesses — from Kazanlak to Germany and Mexico.
+
+![Next.js](https://img.shields.io/badge/Built_with-Next.js-000?style=for-the-badge&logo=nextdotjs)
+![Vercel](https://img.shields.io/badge/Hosted_on-Vercel-000?style=for-the-badge&logo=vercel)
+
+<a href="https://wavsy.dev"><img src="assets/wavsy-showcase.svg" width="100%" alt="Wavsy projects showcase" /></a>
+
+<br/>
+
+<table>
 <tr>
-<td colspan="2" align="center">
-
-### 🌐 [Wavsy](https://wavsy.dev)
-Fast, modern websites for local businesses — built with Next.js, deployed on Vercel. **[See our work →](https://wavsy.dev)**
-
+<td align="center" width="33%">
+<a href="https://stormcarwash.vercel.app/"><img src="https://raw.githubusercontent.com/wavsy/wavsy/main/public/portfolio/storm.jpg" width="100%" /></a>
+<br/><b><a href="https://stormcarwash.vercel.app/">Storm Car Wash</a></b><br/>
+<sub>Car wash · Kazanlak</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://kibo-2.vercel.app/"><img src="https://raw.githubusercontent.com/wavsy/wavsy/main/public/portfolio/kibo-2.jpg" width="100%" /></a>
+<br/><b><a href="https://kibo-2.vercel.app/">KIBO - 2</a></b><br/>
+<sub>Plumbing & heating · Kazanlak</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://www.glenz-reinigung.com/"><img src="https://raw.githubusercontent.com/wavsy/wavsy/main/public/portfolio/glenz.jpg" width="100%" /></a>
+<br/><b><a href="https://www.glenz-reinigung.com/">Glenz Reinigung</a></b><br/>
+<sub>Cleaning · Germany</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="https://manufacturas-quezher.vercel.app/"><img src="https://raw.githubusercontent.com/wavsy/wavsy/main/public/portfolio/quezher.jpg" width="100%" /></a>
+<br/><b><a href="https://manufacturas-quezher.vercel.app/">Manufacturas Quezher</a></b><br/>
+<sub>Metalworking · Mexico</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://cacao-cartel.vercel.app/"><img src="https://raw.githubusercontent.com/wavsy/wavsy/main/public/portfolio/cacao-cartel.jpg" width="100%" /></a>
+<br/><b><a href="https://cacao-cartel.vercel.app/">Cacao Cartel</a></b><br/>
+<sub>Concept · 3D & scroll effects</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://todorovnet.vercel.app/"><img src="https://raw.githubusercontent.com/wavsy/wavsy/main/public/portfolio/todorovnet.jpg" width="100%" /></a>
+<br/><b><a href="https://todorovnet.vercel.app/">TodorovNET</a></b><br/>
+<sub>Our own product</sub>
 </td>
 </tr>
 </table>
+
+[![Visit Wavsy](https://img.shields.io/badge/See_all_our_work-wavsy.dev_%E2%86%92-1F6FEB?style=for-the-badge)](https://wavsy.dev)
+
+</div>
 
 ## 📈 Activity
 
