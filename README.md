@@ -250,55 +250,65 @@ I co-founded Wavsy to build fast, modern sites for local businesses — from Kaz
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-In_progress-F0883E?style=for-the-badge&logo=githubactions&logoColor=white)
+![Completed](https://img.shields.io/badge/Completed-8_%2F_8_modules-2EA043?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Modules](https://img.shields.io/badge/Modules-8-1F6FEB?style=for-the-badge&logo=bookstack&logoColor=white)
 ![Track](https://img.shields.io/badge/Track-Software_Engineering-8957E5?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 <sub>From first line of code to databases, algorithms and systems</sub>
+
+<img src="assets/itkariera-progress.svg" width="720" alt="8 / 8 modules completed" />
 
 <table>
 <tr>
 <td align="center" width="25%">
 <h2>🌱</h2>
 <sub>MODULE 01</sub><br/>
-<b>Introduction to Programming</b>
+<b>Introduction to Programming</b><br/>
+<sub>✅ Completed</sub>
 </td>
 <td align="center" width="25%">
 <h2>💻</h2>
 <sub>MODULE 02</sub><br/>
-<b>Programming</b>
+<b>Programming</b><br/>
+<sub>✅ Completed</sub>
 </td>
 <td align="center" width="25%">
 <h2>🧩</h2>
 <sub>MODULE 03</sub><br/>
-<b>Intro to OOP</b>
+<b>Intro to OOP</b><br/>
+<sub>✅ Completed</sub>
 </td>
 <td align="center" width="25%">
 <h2>🧮</h2>
 <sub>MODULE 04</sub><br/>
-<b>Algorithms & Data Structures</b>
+<b>Algorithms & Data Structures</b><br/>
+<sub>✅ Completed</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="25%">
 <h2>🏛️</h2>
 <sub>MODULE 05</sub><br/>
-<b>Object-Oriented Programming</b>
+<b>Object-Oriented Programming</b><br/>
+<sub>✅ Completed</sub>
 </td>
 <td align="center" width="25%">
 <h2>🗄️</h2>
 <sub>MODULE 06</sub><br/>
-<b>Databases</b>
+<b>Databases</b><br/>
+<sub>✅ Completed</sub>
 </td>
 <td align="center" width="25%">
 <h2>🛠️</h2>
 <sub>MODULE 07</sub><br/>
-<b>Software Development</b>
+<b>Software Development</b><br/>
+<sub>✅ Completed</sub>
 </td>
 <td align="center" width="25%">
 <h2>⚙️</h2>
 <sub>MODULE 08</sub><br/>
-<b>Operating & Embedded Systems</b>
+<b>Operating & Embedded Systems</b><br/>
+<sub>✅ Completed</sub>
 </td>
 </tr>
 </table>
