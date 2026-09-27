@@ -2,7 +2,7 @@ name: Ask my AI
 
 on:
   issues:
-    types: [opened]
+    types: [opened, reopened]
 
 permissions:
   issues: write
@@ -37,7 +37,8 @@ jobs:
             -H "Authorization: Bearer $GITHUB_TOKEN" \
             -H "Content-Type: application/json" \
             -d @request.json > response.json
-          jq -r '.choices[0].message.content // empty' response.json > answer.md
+          echo "HTTP response:"; head -c 1500 response.json; echo
+          jq -r '.choices[0].message.content // empty' response.json > answer.md 2>/dev/null || true
           if [ ! -s answer.md ]; then
             cat response.json
             echo "Sorry, I couldn't answer right now. Please reach Nikolai through [wavsy.dev](https://wavsy.dev)." > answer.md
