@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=220&section=header&text=Nikolai%20Todorov&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20developer%20%E2%80%A2%20Co-founder%20of%20Wavsy&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=220&section=header&text=Nikolai%20Todorov&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Co-founder%20of%20Wavsy&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=I+build+things+that+run+live+%E2%9A%A1;C%23+%2F+.NET+backends+%E2%80%A2+Next.js+frontends;From+database+schema+to+pixel-perfect+UI;Currently+timing+hard+enduro+races+%F0%9F%8F%8D%EF%B8%8F" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=I+build+things+that+run+live+%E2%9A%A1;C%23+%2F+.NET+backends+%E2%80%A2+Next.js+frontends;AI+assistants%2C+agents+%26+automations+%F0%9F%A4%96;From+database+schema+to+pixel-perfect+UI;Currently+timing+hard+enduro+races+%F0%9F%8F%8D%EF%B8%8F" alt="Typing intro" />
 
 <br/>
 
 [![Wavsy](https://img.shields.io/badge/Wavsy-wavsy.dev-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white)](https://wavsy.dev)
-![Location](https://img.shields.io/badge/Kazanlak-Bulgaria-8957E5?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Sofia_%C2%B7_Kazanlak-Bulgaria-8957E5?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Profile views](https://komarev.com/ghpvc/?username=Narcoswiu&color=0D1117&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -17,13 +17,14 @@
 ```csharp
 public class Nikolai : Developer
 {
-    public string Location  => "Kazanlak, Bulgaria 🇧🇬";
+    public string Location  => "Sofia · Kazanlak, Bulgaria 🇧🇬";
     public string Company   => "Wavsy — web studio I co-founded (wavsy.dev)";
     public string Building  => "TodorovNET — live timing for hard enduro 🏍️";
 
     public string[] Backend  => ["C#", ".NET", "ASP.NET Core", "SignalR", "EF Core"];
     public string[] Frontend => ["Next.js", "React", "TypeScript", "Tailwind"];
     public string[] Data     => ["MS SQL", "PostgreSQL", "Oracle PL/SQL", "Supabase"];
+    public string[] AI       => ["AI assistants", "AI agents", "Automations"];
 
     public string Motto => "Ship it, measure it, make it faster.";
 }
@@ -141,6 +142,57 @@ I co-founded Wavsy to build fast, modern sites for local businesses — from Kaz
 </table>
 
 [![Visit Wavsy](https://img.shields.io/badge/See_all_our_work-wavsy.dev_%E2%86%92-1F6FEB?style=for-the-badge)](https://wavsy.dev)
+
+</div>
+
+## 🤖 AI systems — assistants, agents & automations
+
+<div align="center">
+
+**Not off-the-shelf bots.** Systems built around how a business actually works —
+its customers, its rules and the software it already uses.
+
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="assets/ai-chat.svg" width="100%" alt="AI assistant demo conversation" />
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 AI assistant
+Answers customers **24/7, in their language**. Knows the services, prices and policies — and hands the chat to a person when it doesn't know.
+<br/><sub>Website · WhatsApp · Viber · 🇧🇬 🇬🇧 🇩🇪</sub>
+
+### 🦾 AI agent
+Doesn't just answer — **it acts**: books appointments, drafts quotes, checks availability, right inside the tools already in use.
+<br/><sub>A person approves what matters</sub>
+
+### ⚡ Automation
+Takes over the routine between systems: **enquiry → CRM in seconds**, reports that write themselves, alerts when something needs attention.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**🔌 Integrates with**
+
+![Website](https://img.shields.io/badge/Website-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![Viber](https://img.shields.io/badge/Viber-7360F2?style=for-the-badge&logo=viber&logoColor=white) ![Messenger](https://img.shields.io/badge/Messenger-0084FF?style=for-the-badge&logo=messenger&logoColor=white) ![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white) ![Calendar](https://img.shields.io/badge/Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white) ![Spreadsheets](https://img.shields.io/badge/Spreadsheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) ![CRM](https://img.shields.io/badge/CRM-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white) ![Invoices](https://img.shields.io/badge/Invoices-6E7681?style=for-the-badge) ![Booking systems](https://img.shields.io/badge/Booking_systems-6E7681?style=for-the-badge)
+
+<br/>
+
+| ⏰ 24/7 | 🌍 3 languages | 🧪 2–4 week pilot | 🧑‍💼 Human in the loop |
+|:---:|:---:|:---:|:---:|
+| answers customers, weekends included | Bulgarian, English, German | real results before you decide | every important action goes through a person |
+
+**🟢 Live now:** the chat assistant on **[KIBO - 2](https://kibo-2.vercel.app/)** points visitors to the right service.
+
+[![Wavsy AI](https://img.shields.io/badge/Explore_Wavsy_AI-wavsy.dev%2Fen%2Fai_%E2%86%92-8957E5?style=for-the-badge&logo=probot&logoColor=white)](https://wavsy.dev/en/ai)
 
 </div>
 
