@@ -101,25 +101,83 @@ Fast, modern websites for local businesses — built with Next.js, deployed on V
 
 ## 🎓 Education
 
+### 🏆 SoftUni — a perfect record
+
+<div align="center">
+
+![Courses](https://img.shields.io/badge/Courses-8-1F6FEB?style=for-the-badge&logo=bookstack&logoColor=white)
+![Score](https://img.shields.io/badge/Every_grade-6.00_%2F_6.00-2EA043?style=for-the-badge&logo=target&logoColor=white)
+![Journey](https://img.shields.io/badge/Journey-2023_%E2%86%92_2025-8957E5?style=for-the-badge&logo=rocket&logoColor=white)
+
+<sub>Click any card to see the official certificate</sub>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://softuni.bg/Certificates/Details/172518/27c9b1f4"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="52" height="52" /></a>
+<br/><sub>#1</sub><br/>
+<b>Programming Basics</b><br/>
+<sub>🗓️ Apr 2023</sub><br/><br/>
+<a href="https://softuni.bg/Certificates/Details/172518/27c9b1f4"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=for-the-badge" /></a>
+</td>
+<td align="center" width="25%">
+<a href="https://softuni.bg/Certificates/Details/194798/35e8bb78"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="52" height="52" /></a>
+<br/><sub>#2</sub><br/>
+<b>Programming Fundamentals</b><br/>
+<sub>🗓️ Sep 2023</sub><br/><br/>
+<a href="https://softuni.bg/Certificates/Details/194798/35e8bb78"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=for-the-badge" /></a>
+</td>
+<td align="center" width="25%">
+<a href="https://softuni.bg/Certificates/Details/203554/c1299948"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="52" height="52" /></a>
+<br/><sub>#3</sub><br/>
+<b>C# Advanced</b><br/>
+<sub>🗓️ Jan 2024</sub><br/><br/>
+<a href="https://softuni.bg/Certificates/Details/203554/c1299948"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=for-the-badge" /></a>
+</td>
+<td align="center" width="25%">
+<a href="https://softuni.bg/Certificates/Details/211224/76200d7e"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="52" height="52" /></a>
+<br/><sub>#4</sub><br/>
+<b>C# OOP</b><br/>
+<sub>🗓️ Feb 2024</sub><br/><br/>
+<a href="https://softuni.bg/Certificates/Details/211224/76200d7e"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=for-the-badge" /></a>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<a href="https://softuni.bg/Certificates/Details/228582/9cbfdd43"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="52" height="52" /></a>
+<br/><sub>#5</sub><br/>
+<b>HTML & CSS</b><br/>
+<sub>🗓️ Sep 2024</sub><br/><br/>
+<a href="https://softuni.bg/Certificates/Details/228582/9cbfdd43"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=for-the-badge" /></a>
+</td>
+<td align="center" width="25%">
+<a href="https://softuni.bg/Certificates/Details/232322/73946ae"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="52" height="52" /></a>
+<br/><sub>#6</sub><br/>
+<b>JS Front-End</b><br/>
+<sub>🗓️ Oct 2024</sub><br/><br/>
+<a href="https://softuni.bg/Certificates/Details/232322/73946ae"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=for-the-badge" /></a>
+</td>
+<td align="center" width="25%">
+<a href="https://softuni.bg/Certificates/Details/235765/f27c9674"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="52" height="52" /></a>
+<br/><sub>#7</sub><br/>
+<b>MS SQL</b><br/>
+<sub>🗓️ Jan 2025</sub><br/><br/>
+<a href="https://softuni.bg/Certificates/Details/235765/f27c9674"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=for-the-badge" /></a>
+</td>
+<td align="center" width="25%">
+<a href="https://softuni.bg/Certificates/Details/239803/968bac11"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="52" height="52" /></a>
+<br/><sub>#8</sub><br/>
+<b>Entity Framework Core</b><br/>
+<sub>🗓️ Feb 2025</sub><br/><br/>
+<a href="https://softuni.bg/Certificates/Details/239803/968bac11"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=for-the-badge" /></a>
+</td>
+</tr>
+</table>
+
+</div>
+
 <details>
-<summary><b>SoftUni — 8 courses, every one at 6.00 / 6.00 🏆</b></summary>
-<br/>
-
-| Course | Completed | Certificate |
-|---|---|---|
-| Programming Basics | April 2023 | [View](https://softuni.bg/Certificates/Details/172518/27c9b1f4) |
-| Programming Fundamentals with C# | September 2023 | [View](https://softuni.bg/Certificates/Details/194798/35e8bb78) |
-| C# Advanced | January 2024 | [View](https://softuni.bg/Certificates/Details/203554/c1299948) |
-| C# OOP | February 2024 | [View](https://softuni.bg/Certificates/Details/211224/76200d7e) |
-| HTML & CSS | September 2024 | [View](https://softuni.bg/Certificates/Details/228582/9cbfdd43) |
-| JS Front-End | October 2024 | [View](https://softuni.bg/Certificates/Details/232322/73946ae) |
-| MS SQL | January 2025 | [View](https://softuni.bg/Certificates/Details/235765/f27c9674) |
-| Entity Framework Core | February 2025 | [View](https://softuni.bg/Certificates/Details/239803/968bac11) |
-
-</details>
-
-<details>
-<summary><b>IT-Kariera — Software Engineering (in progress) 📚</b></summary>
+<summary><b>🎓 IT-Kariera — Software Engineering (in progress) 📚</b></summary>
 <br/>
 
 - Introduction to Programming
