@@ -1,0 +1,60 @@
+name: Ask my AI
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  issues: write
+  models: read
+  contents: read
+
+concurrency:
+  group: ask-ai-${{ github.event.issue.number }}
+
+jobs:
+  answer:
+    if: contains(github.event.issue.labels.*.name, 'ask-ai')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Ask the model
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          QUESTION_TITLE: ${{ github.event.issue.title }}
+          QUESTION_BODY: ${{ github.event.issue.body }}
+        run: |
+          SYSTEM="$(cat .github/ai/system.md .github/ai/about.md)"
+          QUESTION="$(printf '%s\n\n%s' "$QUESTION_TITLE" "$QUESTION_BODY" | head -c 2000)"
+          jq -n --arg s "$SYSTEM" --arg q "$QUESTION" '{
+            model: "openai/gpt-4.1-mini",
+            temperature: 0.4,
+            max_tokens: 500,
+            messages: [{role: "system", content: $s}, {role: "user", content: $q}]
+          }' > request.json
+          curl -sS https://models.github.ai/inference/chat/completions \
+            -H "Authorization: Bearer $GITHUB_TOKEN" \
+            -H "Content-Type: application/json" \
+            -d @request.json > response.json
+          jq -r '.choices[0].message.content // empty' response.json > answer.md
+          if [ ! -s answer.md ]; then
+            cat response.json
+            echo "Sorry, I couldn't answer right now. Please reach Nikolai through [wavsy.dev](https://wavsy.dev)." > answer.md
+          fi
+
+      - name: Reply and close
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE: ${{ github.event.issue.number }}
+        run: |
+          {
+            echo "🤖 **Nikolai's AI assistant**"
+            echo
+            cat answer.md
+            echo
+            echo "---"
+            echo "<sub>AI-generated answer. For projects or hiring, reach out at [wavsy.dev](https://wavsy.dev). Ask another question [here](../../issues/new?template=ask-ai.yml).</sub>"
+          } > comment.md
+          gh issue comment "$ISSUE" -R "$GITHUB_REPOSITORY" -F comment.md
+          gh issue close "$ISSUE" -R "$GITHUB_REPOSITORY"
