@@ -1,0 +1,17 @@
+name: Ask my AI
+description: Ask a question about Nikolai, his work or Wavsy — an AI assistant replies in about a minute.
+title: "💬 "
+labels: ["ask-ai"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        👋 Hi! I'm Nikolai's AI assistant. Ask me about his skills, projects, AI work or Wavsy.
+        Питай ме и на български. The answer arrives as a comment in about a minute.
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      placeholder: "e.g. What kind of AI systems does Nikolai build?"
+    validations:
+      required: true
