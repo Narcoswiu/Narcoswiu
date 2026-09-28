@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=220&section=header&text=Nikolai%20Todorov&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Co-founder%20of%20Wavsy&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=I+build+things+that+run+live+%E2%9A%A1;C%23+%2F+.NET+backends+%E2%80%A2+Next.js+frontends;AI+assistants%2C+agents+%26+automations+%F0%9F%A4%96;From+database+schema+to+pixel-perfect+UI;Currently+timing+hard+enduro+races+%F0%9F%8F%8D%EF%B8%8F" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=380&lines=I+build+things+that+run+live+%E2%9A%A1;C%23+/+.NET+%E2%80%A2+Next.js+%E2%80%A2+SQL;AI+assistants+%26+automations+%F0%9F%A4%96;From+database+to+pixel-perfect+UI;Timing+hard+enduro+races+%F0%9F%8F%8D%EF%B8%8F" alt="Typing intro" />
 
 <br/>
 
@@ -108,34 +108,36 @@ I co-founded Wavsy to build fast, modern sites for local businesses — from Kaz
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <a href="https://stormcarwash.vercel.app/"><img src="https://raw.githubusercontent.com/wavsy/wavsy/main/public/portfolio/storm.jpg" width="100%" /></a>
 <br/><b><a href="https://stormcarwash.vercel.app/">Storm Car Wash</a></b><br/>
 <sub>Car wash · Kazanlak</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <a href="https://kibo-2.vercel.app/"><img src="https://raw.githubusercontent.com/wavsy/wavsy/main/public/portfolio/kibo-2.jpg" width="100%" /></a>
 <br/><b><a href="https://kibo-2.vercel.app/">KIBO - 2</a></b><br/>
 <sub>Plumbing & heating · Kazanlak</sub>
 </td>
-<td align="center" width="33%">
+</tr>
+<tr>
+<td align="center" width="50%">
 <a href="https://www.glenz-reinigung.com/"><img src="https://raw.githubusercontent.com/wavsy/wavsy/main/public/portfolio/glenz.jpg" width="100%" /></a>
 <br/><b><a href="https://www.glenz-reinigung.com/">Glenz Reinigung</a></b><br/>
 <sub>Cleaning · Germany</sub>
 </td>
-</tr>
-<tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <a href="https://manufacturas-quezher.vercel.app/"><img src="https://raw.githubusercontent.com/wavsy/wavsy/main/public/portfolio/quezher.jpg" width="100%" /></a>
 <br/><b><a href="https://manufacturas-quezher.vercel.app/">Manufacturas Quezher</a></b><br/>
 <sub>Metalworking · Mexico</sub>
 </td>
-<td align="center" width="33%">
+</tr>
+<tr>
+<td align="center" width="50%">
 <a href="https://cacao-cartel.vercel.app/"><img src="https://raw.githubusercontent.com/wavsy/wavsy/main/public/portfolio/cacao-cartel.jpg" width="100%" /></a>
 <br/><b><a href="https://cacao-cartel.vercel.app/">Cacao Cartel</a></b><br/>
 <sub>Concept · 3D & scroll effects</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <a href="https://todorovnet.vercel.app/"><img src="https://raw.githubusercontent.com/wavsy/wavsy/main/public/portfolio/todorovnet.jpg" width="100%" /></a>
 <br/><b><a href="https://todorovnet.vercel.app/">TodorovNET</a></b><br/>
 <sub>Our own product</sub>
@@ -156,14 +158,9 @@ its customers, its rules and the software it already uses.
 
 </div>
 
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<img src="assets/ai-chat.svg" width="100%" alt="AI assistant demo conversation" />
-
-</td>
-<td width="50%" valign="top">
+<div align="center">
+<img src="assets/ai-chat.svg" width="440" alt="AI assistant demo conversation" />
+</div>
 
 ### 💬 AI assistant
 Answers customers **24/7, in their language**. Knows the services, prices and policies — and hands the chat to a person when it doesn't know.
@@ -176,9 +173,6 @@ Doesn't just answer — **it acts**: books appointments, drafts quotes, checks a
 ### ⚡ Automation
 Takes over the routine between systems: **enquiry → CRM in seconds**, reports that write themselves, alerts when something needs attention.
 
-</td>
-</tr>
-</table>
 
 <div align="center">
 
@@ -188,9 +182,16 @@ Takes over the routine between systems: **enquiry → CRM in seconds**, reports 
 
 <br/>
 
-| ⏰ 24/7 | 🌍 3 languages | 🧪 2–4 week pilot | 🧑‍💼 Human in the loop |
-|:---:|:---:|:---:|:---:|
-| answers customers, weekends included | Bulgarian, English, German | real results before you decide | every important action goes through a person |
+<table>
+<tr>
+<td align="center" width="50%"><h3>⏰ 24/7</h3><sub>answers customers, weekends included</sub></td>
+<td align="center" width="50%"><h3>🌍 3 languages</h3><sub>Bulgarian, English, German</sub></td>
+</tr>
+<tr>
+<td align="center"><h3>🧪 2–4 weeks</h3><sub>pilot with real results before you decide</sub></td>
+<td align="center"><h3>🧑‍💼 Human in the loop</h3><sub>every important action goes through a person</sub></td>
+</tr>
+</table>
 
 **🟢 Live now:** the chat assistant on **[KIBO - 2](https://kibo-2.vercel.app/)** points visitors to the right service.
 
@@ -227,13 +228,10 @@ Takes over the routine between systems: **enquiry → CRM in seconds**, reports 
 
 ### 🏅 Fadata — PL/SQL + AI Tech Academy
 
-<table>
-<tr>
-<td width="55%" align="center">
-<a href="assets/fadata-certificate.jpg"><img src="assets/fadata-certificate.jpg" width="100%" alt="Fadata PL/SQL + AI Tech Academy certificate" /></a>
-<br/><sub>Click to view full size</sub>
-</td>
-<td width="45%" valign="middle">
+<div align="center">
+
+<a href="assets/fadata-certificate.jpg"><img src="assets/fadata-certificate.jpg" width="560" alt="Fadata PL/SQL + AI Tech Academy certificate" /></a>
+
 
 ![Completed](https://img.shields.io/badge/Completed-%E2%9C%93-2EA043?style=for-the-badge)
 ![Oracle PL/SQL](https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -241,15 +239,11 @@ Takes over the routine between systems: **enquiry → CRM in seconds**, reports 
 
 **Certificate of Completion**
 
-🏢 &nbsp;**Fadata** × **MNKnowledge**
-<br/>📍 &nbsp;Sofia, Bulgaria
-<br/>🗓️ &nbsp;8 September 2026
+🏢 &nbsp;**Fadata** × **MNKnowledge** &nbsp;·&nbsp;📍 &nbsp;Sofia, Bulgaria &nbsp;·&nbsp;🗓️ &nbsp;8 September 2026
 
 Academy by Fadata, a software company building core systems for the insurance industry. Focused on **Oracle PL/SQL** for enterprise back-ends and on applying **AI** in real-world development.
 
-</td>
-</tr>
-</table>
+</div>
 
 
 ### 🏆 SoftUni — a perfect record
@@ -264,63 +258,67 @@ Academy by Fadata, a software company building core systems for the insurance in
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="50%">
 <a href="https://softuni.bg/Certificates/Details/172518/27c9b1f4"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="52" height="52" /></a>
 <br/><sub>#1</sub><br/>
 <b>Programming Basics</b><br/>
 <sub>🗓️ Apr 2023</sub><br/><br/>
-<a href="https://softuni.bg/Certificates/Details/172518/27c9b1f4"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=for-the-badge" /></a>
+<a href="https://softuni.bg/Certificates/Details/172518/27c9b1f4"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=flat-square" /></a>
 </td>
-<td align="center" width="25%">
+<td align="center" width="50%">
 <a href="https://softuni.bg/Certificates/Details/194798/35e8bb78"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="52" height="52" /></a>
 <br/><sub>#2</sub><br/>
 <b>Programming Fundamentals</b><br/>
 <sub>🗓️ Sep 2023</sub><br/><br/>
-<a href="https://softuni.bg/Certificates/Details/194798/35e8bb78"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=for-the-badge" /></a>
+<a href="https://softuni.bg/Certificates/Details/194798/35e8bb78"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=flat-square" /></a>
 </td>
-<td align="center" width="25%">
+</tr>
+<tr>
+<td align="center" width="50%">
 <a href="https://softuni.bg/Certificates/Details/203554/c1299948"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="52" height="52" /></a>
 <br/><sub>#3</sub><br/>
 <b>C# Advanced</b><br/>
 <sub>🗓️ Jan 2024</sub><br/><br/>
-<a href="https://softuni.bg/Certificates/Details/203554/c1299948"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=for-the-badge" /></a>
+<a href="https://softuni.bg/Certificates/Details/203554/c1299948"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=flat-square" /></a>
 </td>
-<td align="center" width="25%">
+<td align="center" width="50%">
 <a href="https://softuni.bg/Certificates/Details/211224/76200d7e"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="52" height="52" /></a>
 <br/><sub>#4</sub><br/>
 <b>C# OOP</b><br/>
 <sub>🗓️ Feb 2024</sub><br/><br/>
-<a href="https://softuni.bg/Certificates/Details/211224/76200d7e"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=for-the-badge" /></a>
+<a href="https://softuni.bg/Certificates/Details/211224/76200d7e"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=flat-square" /></a>
 </td>
 </tr>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="50%">
 <a href="https://softuni.bg/Certificates/Details/228582/9cbfdd43"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="52" height="52" /></a>
 <br/><sub>#5</sub><br/>
 <b>HTML & CSS</b><br/>
 <sub>🗓️ Sep 2024</sub><br/><br/>
-<a href="https://softuni.bg/Certificates/Details/228582/9cbfdd43"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=for-the-badge" /></a>
+<a href="https://softuni.bg/Certificates/Details/228582/9cbfdd43"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=flat-square" /></a>
 </td>
-<td align="center" width="25%">
+<td align="center" width="50%">
 <a href="https://softuni.bg/Certificates/Details/232322/73946ae"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="52" height="52" /></a>
 <br/><sub>#6</sub><br/>
 <b>JS Front-End</b><br/>
 <sub>🗓️ Oct 2024</sub><br/><br/>
-<a href="https://softuni.bg/Certificates/Details/232322/73946ae"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=for-the-badge" /></a>
+<a href="https://softuni.bg/Certificates/Details/232322/73946ae"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=flat-square" /></a>
 </td>
-<td align="center" width="25%">
+</tr>
+<tr>
+<td align="center" width="50%">
 <a href="https://softuni.bg/Certificates/Details/235765/f27c9674"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="52" height="52" /></a>
 <br/><sub>#7</sub><br/>
 <b>MS SQL</b><br/>
 <sub>🗓️ Jan 2025</sub><br/><br/>
-<a href="https://softuni.bg/Certificates/Details/235765/f27c9674"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=for-the-badge" /></a>
+<a href="https://softuni.bg/Certificates/Details/235765/f27c9674"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=flat-square" /></a>
 </td>
-<td align="center" width="25%">
+<td align="center" width="50%">
 <a href="https://softuni.bg/Certificates/Details/239803/968bac11"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="52" height="52" /></a>
 <br/><sub>#8</sub><br/>
 <b>Entity Framework Core</b><br/>
 <sub>🗓️ Feb 2025</sub><br/><br/>
-<a href="https://softuni.bg/Certificates/Details/239803/968bac11"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=for-the-badge" /></a>
+<a href="https://softuni.bg/Certificates/Details/239803/968bac11"><img src="https://img.shields.io/badge/6.00_%2F_6.00-View_%E2%86%92-2EA043?style=flat-square" /></a>
 </td>
 </tr>
 </table>
@@ -341,25 +339,27 @@ Academy by Fadata, a software company building core systems for the insurance in
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="50%">
 <h2>🌱</h2>
 <sub>MODULE 01</sub><br/>
 <b>Introduction to Programming</b><br/>
 <sub>✅ Completed</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="50%">
 <h2>💻</h2>
 <sub>MODULE 02</sub><br/>
 <b>Programming</b><br/>
 <sub>✅ Completed</sub>
 </td>
-<td align="center" width="25%">
+</tr>
+<tr>
+<td align="center" width="50%">
 <h2>🧩</h2>
 <sub>MODULE 03</sub><br/>
 <b>Intro to OOP</b><br/>
 <sub>✅ Completed</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="50%">
 <h2>🧮</h2>
 <sub>MODULE 04</sub><br/>
 <b>Algorithms & Data Structures</b><br/>
@@ -367,25 +367,27 @@ Academy by Fadata, a software company building core systems for the insurance in
 </td>
 </tr>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="50%">
 <h2>🏛️</h2>
 <sub>MODULE 05</sub><br/>
 <b>Object-Oriented Programming</b><br/>
 <sub>✅ Completed</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="50%">
 <h2>🗄️</h2>
 <sub>MODULE 06</sub><br/>
 <b>Databases</b><br/>
 <sub>✅ Completed</sub>
 </td>
-<td align="center" width="25%">
+</tr>
+<tr>
+<td align="center" width="50%">
 <h2>🛠️</h2>
 <sub>MODULE 07</sub><br/>
 <b>Software Development</b><br/>
 <sub>✅ Completed</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="50%">
 <h2>⚙️</h2>
 <sub>MODULE 08</sub><br/>
 <b>Operating & Embedded Systems</b><br/>
